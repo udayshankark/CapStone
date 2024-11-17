@@ -86,9 +86,8 @@ Combining strengths of different models (Ensemble methods)
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- Link to Notebook - https://github.com/udayshankark/CapStone/blob/master/CapStone_NOV16.ipynb
+
 
 
 ##### Contact and Further Information
