@@ -8,14 +8,12 @@ Uday Kemburu
 This project implements and evaluates multiple machine learning models for fake news detection, achieving over 98% accuracy across different approaches. The best-performing model (Logistic Regression with lemmatization) achieved 99.32% accuracy on the test set, demonstrating the effectiveness of machine learning in distinguishing between real and fake news articles.
 
 #### Rationale
-Why should anyone care about this question?
 This research is crucial in today's digital age where misinformation spreads rapidly and can have serious societal consequences. Developing effective automated tools for fake news detection can help:
 1. Support fact-checkers and journalists in their work
 2. Assist social media platforms in content moderation
 3. Real-time fact-checking during political events
 
 #### Research Question
-What are you trying to answer?
 Can machine learning models effectively distinguish between fake and real news articles based on textual features alone?
 
 #### Data Sources
@@ -51,7 +49,6 @@ Grid Search CV for hyperparameter tuning
 Feature engineering through text preprocessing
 
 #### Results
-What did your research find?
 Model Performance:
 
 Logistic Regression (baseline): 98.65% test accuracy
@@ -76,7 +73,6 @@ SVM provides highest accuracy but requires significantly more processing time
 Lemmatization improves accuracy but adds considerable preprocessing time (672.52s)
 
 #### Next steps
-What suggestions do you have for next steps?
 Model Improvement:
 
 Experiment with deep learning approaches such as  Neural Network
@@ -87,6 +83,8 @@ Combining strengths of different models (Ensemble methods)
 #### Outline of project
 
 - Link to Notebook - https://github.com/udayshankark/CapStone/blob/master/CapStone_NOV16.ipynb
+
+- Link to Project Summary - https://github.com/udayshankark/CapStone/blob/master/ProjectSummary.pdf
 
 
 
